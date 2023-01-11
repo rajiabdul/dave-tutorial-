@@ -1,0 +1,38 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    
+    background: rgb(16, 53, 94);
+    color: whitesmoke;
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid rgb(255, 255, 255);
+    border-right: 1px solid rgb(255, 255, 255);
+}
+
+th, td, caption {
+    border: 1px solid rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
+
+button {
+    color: rgb(0, 0, 0);
+    background-color: rgba(0, 255, 242, 0.745);
+}
+a {
+    color: blue;
+  }
+
+  a:visited {
+    color: rgb(195, 21, 21);
+  }
+  
+  a:hover {
+    color: rgb(238, 238, 238);
+  }
